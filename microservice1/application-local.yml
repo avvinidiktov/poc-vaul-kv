@@ -1,3 +1,2 @@
 git:
-  config:
-    value: some git value, not even a secret for ms1 local
+  value: some git value, not even a secret for ms1 local

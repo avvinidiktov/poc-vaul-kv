@@ -1,3 +1,2 @@
 git:
-  config:
-    value: some git value, not even a secret for ms2 dev
+  value: some git value, not even a secret for ms2 dev
