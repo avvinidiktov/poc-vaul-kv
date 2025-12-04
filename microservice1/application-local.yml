@@ -1,5 +1,5 @@
 git:
   value: some git value, not even a secret for ms1 local
-  poc: added value to see it in bus
+  poc: added value to see it in bus 123213213
 value:
   common: this value comes from git + spring cloud configs
