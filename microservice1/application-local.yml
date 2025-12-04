@@ -2,3 +2,5 @@ git:
   value: some git value, not even a secret for ms1 local 123123123213
 value:
   common: this value comes from git + spring cloud configs
+features:
+  random-feature-112263-enabled: true
