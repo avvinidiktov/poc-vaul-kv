@@ -4,4 +4,4 @@ value:
   common: this value comes from git + spring cloud configs
 features:
   random-feature-112263-enabled: true
-  enabled: true
+  enabled: false
